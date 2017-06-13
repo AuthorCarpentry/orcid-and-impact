@@ -7,7 +7,7 @@ Author Carpentry : Measuring scholarly impact and reputation with ORCiD and Impa
 
 **Lesson status: In Development**
 
-## Learning Objectives:
+## What you will learn:
 
 - Create an impact Story account and link to OrcID
 - Observe OAuth token granted to ImpactStory to access ORCID account and its
@@ -36,4 +36,10 @@ workflow.
 *These lessons assume no prior knowledge of the skills or tools*, but working
 through this lesson requires working copies of the software described below.
 To most effectively use these materials, please make sure to install everything
-*before* working through this lesson.                    
+*before* working through this lesson. 
+
+## Cheat Sheet
+
+## References
+
+                   
