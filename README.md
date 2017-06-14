@@ -1,4 +1,4 @@
-Author Carpentry : Measuring scholarly impact and reputation with ORCiD and ImpactStory
+Author Carpentry : Measuring scholarly impact and reputation with impact metrics
 =======
 
 *Content Contributors: Gail Clement*
@@ -9,8 +9,8 @@ Author Carpentry : Measuring scholarly impact and reputation with ORCiD and Impa
 
 ## What you will learn:
 
-- Create an impact Story account and link to OrcID
-- Observe OAuth token granted to ImpactStory to access ORCID account and its
+- Create an  account and link to OrcID
+- Observe OAuth token granted to access ORCID account and its
   duration
 - Observe metrics displaying next to works harvested from the OrCiD profile
 
