@@ -5,7 +5,7 @@ Author Carpentry : Measuring scholarly impact and reputation with impact metrics
 
 *Lesson Maintainers: None*
 
-**Lesson status: In Development**
+**Lesson status: Future**
 
 ## What you will learn:
 
