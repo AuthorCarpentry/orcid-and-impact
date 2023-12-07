@@ -3,7 +3,7 @@ Author Carpentry : Measuring scholarly impact and reputation with impact metrics
 
 *Content Contributors: Gail Clement*
 
-*Lesson Maintainers: Gail Clement*
+*Lesson Maintainers: None*
 
 **Lesson status: In Development**
 
